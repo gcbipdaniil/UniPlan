@@ -8,6 +8,15 @@
   <b>Modern Android Timetable Planner & Integrated USOS Portal for UKEN Krakow Students</b>
 </p>
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b4d7867-bb8d-43e4-96ae-ae36a690887e" width="18%" />
+  <img src="https://github.com/user-attachments/assets/764ad925-1a17-4e14-afce-b30298551b7d" width="18%" />
+  <img src="https://github.com/user-attachments/assets/266c8220-6e16-4be8-868a-26cfbf276cd4" width="18%" />
+  <img src="https://github.com/user-attachments/assets/63570db4-e011-46d3-a420-337da9785851" width="18%" />
+</p>
+
 <p align="center">
   <a href="#-english">English</a> •
   <a href="#-polski">Polski</a> •
