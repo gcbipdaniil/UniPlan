@@ -35,23 +35,10 @@
 - 🎨 **Material 3 / Material You**: Dynamic color themes (Android 12+), dark/light mode support, and spring motion animations.
 - 🌍 **Multi-language**: Full localization in English, Polish, Russian, Belarusian, and Ukrainian.
 
-### Tech Stack
-- **Language**: Kotlin 100%
-- **UI Framework**: Jetpack Compose + Material Design 3
-- **Asynchronous**: Kotlin Coroutines & StateFlow
-- **Database**: Room (SQLite local caching)
-- **Networking**: OkHttp 4 + Custom CookieJar for CAS SSO
-- **Parsing**: JSoup & Regex HTML parser
-- **Background Work**: WorkManager & AlarmManager
-- **Security**: EncryptedSharedPreferences / Android Keystore
-
-### Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/gcbipdaniil/UniPlan.git
-   ```
-2. Open the project in **Android Studio 2024.1+**.
-3. Build and run on an Android device or emulator (Android 8.0 / API 26+).
+### Installation
+1. Download the latest **UniPlan.apk** file from [Releases](https://github.com/gcbipdaniil/UniPlan/releases).
+2. Open the downloaded `.apk` file on your Android device (Android 8.0+ / API 26+).
+3. Confirm installation and launch **UniPlan**!
 
 ### Author
 - **Developer**: Dudarchuk Daniil (**DanStudio**)
@@ -78,6 +65,11 @@
 - 🎨 **Material Design 3**: Dynamiczne kolory (Android 12+), tryb jasny i ciemny.
 - 🌍 **Wielojęzyczność**: Pełne tłumaczenie na język polski, angielski, rosyjski, białoruski i ukraiński.
 
+### Instalacja
+1. Pobierz najnowszą wersję **UniPlan.apk** z zakładki [Releases](https://github.com/gcbipdaniil/UniPlan/releases).
+2. Otwórz pobrany plik `.apk` na swoim urządzeniu z systemem Android (Android 8.0+ / API 26+).
+3. Potwierdź instalację i uruchom **UniPlan**!
+
 ### Autor
 - **Deweloper**: Daniil Dudarchuk (**DanStudio**)
 - **GitHub**: [github.com/gcbipdaniil/UniPlan](https://github.com/gcbipdaniil/UniPlan)
@@ -102,6 +94,11 @@
 - 🌐 **Управление часовыми поясами**: Автоматическое определение, популярные города в один клик и удобный поиск.
 - 🎨 **Material Design 3**: Динамические цвета (Android 12+), поддержка темной и светлой темы.
 - 🌍 **Локализация**: Полный перевод на русский, польский, английский, белорусский и украинский языки.
+
+### Установка
+1. Скачайте свежий файл **UniPlan.apk** из раздела [Releases](https://github.com/gcbipdaniil/UniPlan/releases).
+2. Откройте скачанный `.apk` файл на вашем Android-устройстве (Android 8.0+ / API 26+).
+3. Подтвердите установку и запустите **UniPlan**!
 
 ### Разработчик
 - **Автор**: Дударчук Даниил (**DanStudio**)
