@@ -1,7 +1,7 @@
 # 🎓 UniPlan — Student Planner & USOS Client for UKEN Krakow
 
 <p align="center">
-  <img src="app/src/main/res/mipmap-xxhdpi/ic_launcher.png" width="128" height="128" alt="UniPlan Logo" />
+  <img src="https://github.com/gcbipdaniil/UniPlan/blob/main/logo.jpg" width="128" height="128" alt="UniPlan Logo" />
 </p>
 
 <p align="center">
